@@ -1,0 +1,14 @@
+{
+  "name": "jingo-addon-auth-google",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "passport-google-oauth": "^1.0.0"
+  }
+}
